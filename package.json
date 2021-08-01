@@ -1,5 +1,5 @@
 {
-  "name": "Cheffy",
+  "name": "cheffy",
   "version": "0.0.1",
   "description": "Cheffy - AirBnB for Chefs",
   "private": true,
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@smooth-ui/core-sc": "9.0.2",
-    "create-react-class": "^15.6.3",
+    "create-react-class": "^15.7.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "styled-components": "^4.1.2",
