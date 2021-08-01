@@ -10,7 +10,7 @@
   (let [initial-values {:email "" :password ""}
         values (r/atom initial-values)]
  (fn []
-  [:> Row {:justyfy-content "center"}
+  [:> Row {:justify-content "center"}
    [:> Col {:xs 12 :sm 6}
     [page-nav {:center "Log in"}]
     [form-group {:id :email
